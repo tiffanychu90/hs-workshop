@@ -1,0 +1,7 @@
+flake8
+intake-dcat
+intake-geopandas
+jupyterlab>=1.0a3
+descartes
+folium
+python-dotenv
