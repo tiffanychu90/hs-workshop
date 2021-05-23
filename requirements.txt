@@ -5,3 +5,7 @@ jupyterlab>=1.0a3
 descartes
 folium
 python-dotenv
+spotipy 
+tidyspotify
+urllib3<1.26
+requests>=2.25.0

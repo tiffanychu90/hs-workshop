@@ -4,7 +4,7 @@ services:
   lab:
     build: ./
     image: visualize_spotify
-    container_name: visualize_spotify_lab
+    container_name: visualize_spotify
     volumes:
       - ./:/home/jovyan/
     ports:
