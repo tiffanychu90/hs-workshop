@@ -8,7 +8,3 @@ openpyxl
 cartopy
 scikit-learn
 geopandas
-intake
-intake-parquet
-pyarrow
-python-snappy
