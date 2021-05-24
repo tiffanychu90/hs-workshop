@@ -1,0 +1,31 @@
+name: simple-coronavirus-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab=1.0
+  - numpy
+  - pandas>=1.0
+  - numpy
+  - pip
+  - altair
+  - altair_saver
+  - nodejs
+  - numpy
+  - scipy
+  - matplotlib
+  - openpyxl
+  - cartopy
+  - scikit-learn
+  - geopandas
+  - pip:
+    - flake8
+    - jupyterlab>=1.0a3
+    - descartes
+    - folium
+    - python-dotenv
+    - spotipy 
+    - tidyspotify
+    - urllib3>1.26
+    - requests>=2.25.0
