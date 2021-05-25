@@ -7,3 +7,4 @@ spotipy
 tidyspotify
 urllib3>1.26
 requests>=2.25.0
+schrutepy
